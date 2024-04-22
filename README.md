@@ -3,7 +3,7 @@ Light/Dark Toggle Button
 This repository contains a simple and elegant Light/Dark mode toggle button for web pages. The toggle button allows users to switch between light and dark themes, providing a comfortable viewing experience in various lighting conditions.
 Live Preview
 
-Check out the live preview here to see the toggle button in action.
+Check out the live preview https://udaysharmadev.github.io/Light-Dark-Toggle-Button/ to see the toggle button in action.
 Features
 
     Smooth transition between light and dark modes
